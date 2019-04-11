@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/mywork/devilbox/" "/var/www/html/UCIC/" "~/.local/lib/python3.6/site-packages/sklearn/" "/var/www/html/UCIC/vendor/codeception/base/" "/var/www/html/UCIC/vendor/swiftmailer/swiftmailer/")

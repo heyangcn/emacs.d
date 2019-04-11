@@ -1,0 +1,16 @@
+/etc/hosts
+/etc/#hosts#
+/home/pm/mywork/devilbox/.env
+/home/pm/mywork/devilbox/#.env#
+/home/pm/mywork/devilbox/data/www/second.project/www/index.php
+/home/pm/mywork/devilbox/data/www/second.project/www/#index.php#
+/home/pm/mywork/devilbox/log/nginx-stable/my_project-access.log
+/home/pm/mywork/devilbox/log/nginx-stable/#my_project-access.log#
+/home/pm/mywork/devilbox/log/nginx-stable/advanced-error.log
+/home/pm/mywork/devilbox/log/nginx-stable/#advanced-error.log#
+/home/pm/mywork/devilbox/log/nginx-stable/advanced-access.log
+/home/pm/mywork/devilbox/log/nginx-stable/#advanced-access.log#
+/home/pm/mywork/devilbox/log/nginx-stable/defaultlocalhost-error.log
+/home/pm/mywork/devilbox/log/nginx-stable/#defaultlocalhost-error.log#
+/home/pm/mywork/devilbox/log/nginx-stable/defaultlocalhost-access.log
+/home/pm/mywork/devilbox/log/nginx-stable/#defaultlocalhost-access.log#

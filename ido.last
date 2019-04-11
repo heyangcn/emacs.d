@@ -1,0 +1,30 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/var/www/html/UCIC/backend/" . "assets/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/var/www/html/UCIC/backend/models/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "GroupPost.php"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/pm/mywork/dl/" (23717 45030 723582 403000) "../" "autoEncoer.py" "./")
+
+ ("/var/www/html/UCIC/backend/assets/" (23713 51090 335400 554000) "../" "AppAsset.php" "./")
+
+ ("/var/www/html/UCIC/backend/" (23713 51091 631321 665000) "../" "tests/" "events/" "codeception.yml" "views/" "controllers/" "models/" "web/" "assets/" "./" "config/")
+
+ ("/var/www/html/UCIC/backend/models/" (23717 45056 735951 233000) "../" "UcicRgroupMembers.php" "IGroup.php" "IWxCode.php" "UcicSign.php" "Group.php" "errorCode.php" "Mail.php" "UcicCourseClass.php" "phpEditSubtitles.php" ".gitkeep" "#Group.php#" "WXBizDataCrypt1.php" "UcicCourse.php" "UcicCgroupSet.php" "UcicCourseGroup.php" "UcicVoteOptions.php" "UcicRgroupSet.php" "UcicNetDisk.php" "UcicQuestionAnswer.php" "UcicMessage.php" "WXBizDataCrypt.php" "GroupPost.php" "UcicQuestion.php" "UcicLecturerBehavior.php" "UcicClassGroup.php" "UcicCgroupMembers.php" "./" "UcicVote.php" "UcicCourseware.php" "UcicVoteAnswer.php" "WxCode.php")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
