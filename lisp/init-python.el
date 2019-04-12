@@ -2,10 +2,11 @@
 ;;; Commentary:
 ;;; Code:
 
-(setq python-shell-interpreter "python3")
-(setq elpy-rpc-python-command "python3")
+(setq python-shell-interpreter "python3.6")
+(setq elpy-rpc-python-command "python3.6")
+
 ;; (setq python-shell-interpreter-args "-m IPython --simple-prompt -i")
-(setq flycheck-python-pycompile-executable "python3")
+;; (setq flycheck-python-pycompile-executable "python3")
 
 (setq auto-mode-alist
       (append '(("SConstruct\\'" . python-mode)

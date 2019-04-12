@@ -14,7 +14,8 @@
     (error "Your Emacs is too old -- this config requires v%s or higher" minver)))
 (when (version< emacs-version "25.1")
   (message "Your Emacs is old, and some functionality in this config will be disabled. Please upgrade if possible."))
-
+;;; depends whether your env has anaconda or not
+(add-to-list 'exec-path "~/anaconda3/bin")
 (add-to-list 'load-path (expand-file-name "lisp" user-emacs-directory))
 (require 'init-benchmarking) ;; Measure startup time
 
